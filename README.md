@@ -7,3 +7,9 @@
 - Checking formatting
 - Checking linting
 
+## What it does
+This is a basic cook book for building comman line tools
+
+* Click CLI tool with full conious integration
+* Docker CLI
+
