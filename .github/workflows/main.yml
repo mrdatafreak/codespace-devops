@@ -1,4 +1,4 @@
-name: Codespace
+name: Python Codepaces and Github Action
 on: [push]
 jobs:
   build:
